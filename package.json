@@ -39,6 +39,6 @@
     },
     "dependencies": {
         "core-js": "^3.8.0",
-        "js-binary-schema-parser": "https://gitee.com/wmlgl/jsBinarySchemaParser.git"
+        "js-binary-schema-parser": "https://github.com/Dedicatus546/jsBinarySchemaParser.git"
     }
 }
